@@ -1,3 +1,6 @@
+#Customer Shopping Behavior Analysis
+## Dashboard Preview
+![Dashboard](Dashboard)
 # Customer-Behavior-Dashboard
 
 📌 Project Overview
